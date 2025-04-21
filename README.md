@@ -1,5 +1,10 @@
 **HomeLab Overview**
-Step By Step Guide 
+ 
+ 
+ 
+ 
+ 
+ **[Step By Step Guide](https://github.com/Amazeexe/VMAttack-DefenseHomeLab/blob/4d864c115e6c5e789966a7eb2716752ed5e851f2/Simulating%20Cyber%20Attacks%20With%20Kali%20Linux.pdf)**
 - Simulating Malware Creation and deployment through Kali Linux
 - Sandboxxed VM Enviornment
 - Windows and Linux VM on VLAN
